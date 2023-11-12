@@ -3,8 +3,11 @@
 # Project description
 Here's an end-to-end a description of Carbon Footprint Analysis project:
 
-1. Project Objective: The main objective of this project is to analyze the carbon footprint of different activities or sectors. This involves understanding the energy consumption, emission factors, and activity data related to these sectors.
-2. Data Collection: Collect the necessary data for the analysis. This includes:
+## **Project Objective**: The main objective of this project is to analyze the carbon footprint of different activities or sectors. This involves understanding the energy consumption, emission factors, and activity data related to these sectors.
+
+## **Project steps**: These are the entire steps that we did through this project:
+
+1. Data Collection: Collect the necessary data for the analysis. This includes:
 
     Energy Consumption Data: This data provides information on the amount and type of energy consumed. It can be collected from various sources such as government databases, energy companies, or research institutions.
     Emission Factors: These are factors that convert energy use into greenhouse gas emissions. They can be obtained from environmental agencies or research institutions.
