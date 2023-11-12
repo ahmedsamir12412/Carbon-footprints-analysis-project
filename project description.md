@@ -3,7 +3,7 @@
 # Project description
 Here's an end-to-end a description of Carbon Footprint Analysis project:
 
-## Project Objective: 
+### Project Objective: 
  The main objective of this project is to analyze the carbon footprint of different activities or sectors. This involves understanding the energy consumption, emission factors, and activity data related to these sectors.
 
 ## **Project steps**: These are the entire steps that we did through this project:
